@@ -1,0 +1,14 @@
+.video-player-container {
+    position: fixed;
+    padding-bottom: 40px;
+}
+
+.button-container {
+    position: absolute;
+    bottom: 200px;
+    /* Adjust as needed */
+    left: 150%;
+    transform: translateY(-50%);
+    text-align: center;
+    padding-top: 20px;
+}
